@@ -10,5 +10,6 @@ public class people {
     private String name;
     private Integer age;
 
+    private  String password;
 
 }
