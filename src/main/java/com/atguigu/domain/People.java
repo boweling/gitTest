@@ -16,4 +16,6 @@ public class People {
 
     private String url;
 
+    private Integer money;
+
 }
