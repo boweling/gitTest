@@ -14,4 +14,6 @@ public class People {
 
     private String email;
 
+    private Integer money;
+
 }
