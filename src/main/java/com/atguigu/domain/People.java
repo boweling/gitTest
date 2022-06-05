@@ -5,11 +5,13 @@ package com.atguigu.domain;
  * @create : 2022/6/5 18:06
  */
 
-public class people {
+public class People {
 
     private String name;
     private Integer age;
 
     private  String password;
+
+    private String email;
 
 }
