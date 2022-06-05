@@ -18,4 +18,6 @@ public class People {
 
     private Integer money;
 
+    private Integer phone;
+
 }
