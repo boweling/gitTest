@@ -11,4 +11,5 @@ public class Course {
     private Integer phone;
     private String name;
     private String url;
+    private String sex;
 }
