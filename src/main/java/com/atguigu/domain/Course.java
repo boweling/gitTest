@@ -12,4 +12,5 @@ public class Course {
     private String name;
     private String url;
     private String sex;
+    private String uuid;
 }
