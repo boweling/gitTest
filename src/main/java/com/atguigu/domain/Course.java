@@ -13,4 +13,5 @@ public class Course {
     private String url;
     private String sex;
     private String uuid;
+    private Integer age;
 }
